@@ -14,6 +14,12 @@
 <h4 align="center">An ultra-modern, zero-knowledge password manager for macOS.</h4>
 
 <p align="center">
+  <a href="https://github.com/simonpierreboucher02/passvault/releases/latest/download/PassVault.dmg">
+    <img src="https://img.shields.io/badge/Download-PassVault.dmg-blue?style=for-the-badge&logo=apple&logoColor=white" alt="Download DMG"/>
+  </a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Encryption-AES--256--GCM-blue?style=flat-square&logo=letsencrypt&logoColor=white" alt="AES-256-GCM"/>
   <img src="https://img.shields.io/badge/KDF-PBKDF2--SHA256-blue?style=flat-square&logo=keybase&logoColor=white" alt="PBKDF2"/>
   <img src="https://img.shields.io/badge/Hardened_Runtime-Enabled-brightgreen?style=flat-square&logo=apple&logoColor=white" alt="Hardened Runtime"/>
